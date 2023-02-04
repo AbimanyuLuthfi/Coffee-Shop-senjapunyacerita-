@@ -206,6 +206,7 @@ body{
 
 .menu .row .menu-card{
     text-align: center;
+    padding-bottom: 4rem;
 }
 
 .menu .row .menu-card img{
@@ -286,6 +287,10 @@ body{
 
     .about .row .content p{
         font-size: 1.6rem;
+    }
+
+    .menu p{
+        font-size: 1.2rem;
     }
 
 }
